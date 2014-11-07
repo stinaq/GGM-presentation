@@ -1,3 +1,9 @@
 body {
   background: radial-gradient(#ed61c5, #d62f9b) repeat scroll 0% 0% transparent;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+.step {
+	font-family: 'Raleway', sans-serif;
 }
