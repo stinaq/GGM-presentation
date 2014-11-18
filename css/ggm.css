@@ -1,9 +1,22 @@
 body {
-  background: radial-gradient(#ed61c5, #d62f9b) repeat scroll 0% 0% transparent;
+  background: radial-gradient(#F26455, #e74c3c) repeat scroll 0% 0% transparent;
   color: #fff;
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 
 .step {
 	font-family: 'Raleway', sans-serif;
+}
+
+#title h1{
+  font-size: 80px
+}
+
+#title p{
+  font-size: 40px;
+}
+
+#big {
+  width: 900px;
 }
