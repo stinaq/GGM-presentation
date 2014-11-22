@@ -28,3 +28,19 @@ body {
 #borjar {
   width: 700px;
 }
+
+#help .small {
+  font-size: 24px;
+}
+
+#need .list{
+  font-size: 34px;
+}
+
+#kitten-paus img {
+  max-width: 350px;
+}
+
+#step-1 h1{
+  font-size: 70px;
+}
