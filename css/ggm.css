@@ -29,6 +29,10 @@ body {
   width: 700px;
 }
 
+#get p {
+  font-size: 44px;
+}
+
 #help .small {
   font-size: 24px;
 }
